@@ -112,7 +112,7 @@ sql/clean.sql
 - Fixed salary and numeric columns
 - Prepared data for analytics
 
-### step 4
+### Step 4
 
 Once the data was clean, analytical queries were executed on the SQLite database:
 
@@ -135,15 +135,15 @@ Queries were executed using:
 - Funnel Analysis
 
 💡 Key Insights
-Significant drop-off between job views and applications
-Certain cities show consistently higher conversion rates
-Mid-level experience jobs attract the highest applications
-Some job postings receive high views but very low applies
+- Significant drop-off between job views and applications
+- Certain cities show consistently higher conversion rates
+- Mid-level experience jobs attract the highest applications
+- Some job postings receive high views but very low applies
 
 🚀 Future Improvements
-Add Power BI / Tableau dashboar
-Automate data refresh
-Add salary normalization analysis
+- Add Power BI / Tableau dashboar
+- Automate data refresh
+- Add salary normalization analysis
 
 👤 Author
 Parineeta Shinde
