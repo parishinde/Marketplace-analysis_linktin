@@ -8,7 +8,7 @@ The goal is to identify insights that can help **increase successful hires** usi
 ---
 
 ## 🛠 Tools & Technologies
-
+- Excel
 - SQL (SQLite)
 - Python (Jupyter Notebook for data loading)
 - VS Code
@@ -33,7 +33,7 @@ The original dataset contained **Windows-1252 encoded characters** (smart quotes
 ## 🔄 Step-by-Step Workflow
 
 ### 1️⃣ Data Cleaning & Encoding
-
+- Used Excel prior for cleaning
 - Verified CSV encoding
 - Converted to UTF-8
 - Removed malformed rows and ensured column consistency
